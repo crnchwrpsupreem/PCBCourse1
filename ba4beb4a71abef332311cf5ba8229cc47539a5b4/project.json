@@ -11,7 +11,7 @@
         "top": "boards/nemesis-mixsigpcb-56fabc/top.png",
         "bottom": "boards/nemesis-mixsigpcb-56fabc/bottom.png"
       },
-      "model": "boards/nemesis-mixsigpcb-56fabc/board-view.glb",
+      "model": "boards/nemesis-mixsigpcb-56fabc/board-56012fc7b095.glb",
       "schematics": [
         {
           "name": "Nemesis-MixSigPCB-ADC",
