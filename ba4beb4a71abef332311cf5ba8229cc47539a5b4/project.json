@@ -1,0 +1,61 @@
+{
+  "schema": 1,
+  "repository": "crnchwrpsupreem/PCBCourse1",
+  "snapshot": "ba4beb4a71abef332311cf5ba8229cc47539a5b4",
+  "boards": [
+    {
+      "name": "Nemesis-MixSigPCB",
+      "source": "MixSigCourse-B-KiCad7-Files/Nemesis-MixSigPCB.kicad_pcb",
+      "images": {
+        "board": "boards/nemesis-mixsigpcb-56fabc/board.png",
+        "top": "boards/nemesis-mixsigpcb-56fabc/top.png",
+        "bottom": "boards/nemesis-mixsigpcb-56fabc/bottom.png"
+      },
+      "model": "boards/nemesis-mixsigpcb-56fabc/board-view.glb",
+      "schematics": [
+        {
+          "name": "Nemesis-MixSigPCB-ADC",
+          "file": "boards/nemesis-mixsigpcb-56fabc/schematics/Nemesis-MixSigPCB-ADC.svg"
+        },
+        {
+          "name": "Nemesis-MixSigPCB-DAC",
+          "file": "boards/nemesis-mixsigpcb-56fabc/schematics/Nemesis-MixSigPCB-DAC.svg"
+        },
+        {
+          "name": "Nemesis-MixSigPCB-MCU",
+          "file": "boards/nemesis-mixsigpcb-56fabc/schematics/Nemesis-MixSigPCB-MCU.svg"
+        },
+        {
+          "name": "Nemesis-MixSigPCB-Power",
+          "file": "boards/nemesis-mixsigpcb-56fabc/schematics/Nemesis-MixSigPCB-Power.svg"
+        },
+        {
+          "name": "Nemesis-MixSigPCB",
+          "file": "boards/nemesis-mixsigpcb-56fabc/schematics/Nemesis-MixSigPCB.svg"
+        }
+      ],
+      "downloads": [
+        {
+          "label": "JLCPCB package",
+          "file": "boards/nemesis-mixsigpcb-56fabc/manufacturing.zip"
+        },
+        {
+          "label": "Gerbers + drills",
+          "file": "boards/nemesis-mixsigpcb-56fabc/gerbers.zip"
+        },
+        {
+          "label": "BOM",
+          "file": "boards/nemesis-mixsigpcb-56fabc/bom.csv"
+        },
+        {
+          "label": "Pick & place",
+          "file": "boards/nemesis-mixsigpcb-56fabc/positions.csv"
+        },
+        {
+          "label": "Schematic PDF",
+          "file": "boards/nemesis-mixsigpcb-56fabc/schematic.pdf"
+        }
+      ]
+    }
+  ]
+}
